@@ -1,0 +1,7 @@
+{  
+  "grid_width": 32,  
+  "region_size": 32,
+  "grid_height": 32,
+  "use_rezoom": false ,
+  "num_classes": 2
+}
